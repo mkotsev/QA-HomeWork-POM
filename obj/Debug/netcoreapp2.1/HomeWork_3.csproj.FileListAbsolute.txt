@@ -1,0 +1,16 @@
+D:\QA-Automated\ThirdHomeWork\1-Task\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\QA-Automated\ThirdHomeWork\1-Task\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\QA-Automated\ThirdHomeWork\1-Task\bin\Debug\netcoreapp2.1\nunit.engine.dll
+D:\QA-Automated\ThirdHomeWork\1-Task\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+D:\QA-Automated\ThirdHomeWork\1-Task\bin\Debug\netcoreapp2.1\testhost.exe
+D:\QA-Automated\ThirdHomeWork\1-Task\bin\Debug\netcoreapp2.1\testhost.dll
+D:\QA-Automated\ThirdHomeWork\1-Task\bin\Debug\netcoreapp2.1\HomeWork_3.deps.json
+D:\QA-Automated\ThirdHomeWork\1-Task\bin\Debug\netcoreapp2.1\HomeWork_3.runtimeconfig.json
+D:\QA-Automated\ThirdHomeWork\1-Task\bin\Debug\netcoreapp2.1\HomeWork_3.runtimeconfig.dev.json
+D:\QA-Automated\ThirdHomeWork\1-Task\bin\Debug\netcoreapp2.1\HomeWork_3.dll
+D:\QA-Automated\ThirdHomeWork\1-Task\bin\Debug\netcoreapp2.1\HomeWork_3.pdb
+D:\QA-Automated\ThirdHomeWork\1-Task\obj\Debug\netcoreapp2.1\HomeWork_3.AssemblyInfoInputs.cache
+D:\QA-Automated\ThirdHomeWork\1-Task\obj\Debug\netcoreapp2.1\HomeWork_3.AssemblyInfo.cs
+D:\QA-Automated\ThirdHomeWork\1-Task\obj\Debug\netcoreapp2.1\HomeWork_3.dll
+D:\QA-Automated\ThirdHomeWork\1-Task\obj\Debug\netcoreapp2.1\HomeWork_3.pdb
+D:\QA-Automated\ThirdHomeWork\1-Task\obj\Debug\netcoreapp2.1\HomeWork_3.csprojAssemblyReference.cache
